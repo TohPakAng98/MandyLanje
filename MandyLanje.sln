@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MandyLanje_StoreApp", "MandyLanje_StoreApp\MandyLanje_StoreApp.csproj", "{B77BEE68-DF8E-40BD-9846-055E0273E9B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{C32EF98F-0918-4BFE-82D7-7B190F9BEB6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{B77BEE68-DF8E-40BD-9846-055E0273E9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B77BEE68-DF8E-40BD-9846-055E0273E9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B77BEE68-DF8E-40BD-9846-055E0273E9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32EF98F-0918-4BFE-82D7-7B190F9BEB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32EF98F-0918-4BFE-82D7-7B190F9BEB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32EF98F-0918-4BFE-82D7-7B190F9BEB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32EF98F-0918-4BFE-82D7-7B190F9BEB6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
