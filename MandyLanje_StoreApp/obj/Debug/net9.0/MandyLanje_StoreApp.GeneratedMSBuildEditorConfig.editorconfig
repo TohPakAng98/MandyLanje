@@ -31,3 +31,11 @@ build_property.EnableCodeStyleSeverity =
 [A:/github repo/MandyLanje/MandyLanje_StoreApp/Views/Home/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[A:/github repo/MandyLanje/MandyLanje_StoreApp/Views/Product/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/github repo/MandyLanje/MandyLanje_StoreApp/Views/Product/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

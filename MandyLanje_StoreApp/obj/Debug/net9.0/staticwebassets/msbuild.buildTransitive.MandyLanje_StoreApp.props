@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MandyLanje_StoreApp.props" />
+</Project>
