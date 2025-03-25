@@ -1,12 +1,13 @@
 using Microsoft.EntityFrameworkCore;
-using StoreApp.Models;
+using Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<RepositoryContext>(options => 
 {
-    options.UseSqlite(builder.Configuration.GetConnectionString("sqlConnection"));
+    options.UseSqlite(builder.Configuration.GetConnectionString("sqlConnection"),
+    b => b.MigrationsAssembly("MandyLanje_StoreApp"));
 });
 
 var app = builder.Build();
