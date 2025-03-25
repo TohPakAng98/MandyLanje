@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MandyLanje_StoreApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26c1b6489d432069853e46ad2e8159cdd084d08b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3640636b6ee248e294c3215125d64930a4bb8a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MandyLanje_StoreApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MandyLanje_StoreApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
